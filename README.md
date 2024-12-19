@@ -4,3 +4,5 @@ These projects are part of the MATH108 Foundations of Data Science at the City C
 Project 1: World Population and Poverty
 
 Project 2: Climate
+
+Project 3: Movie Classification
