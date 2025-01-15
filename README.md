@@ -2,15 +2,19 @@ This repository consists of projects derived from the Data Science course (Data 
 These projects are part of the MATH108 Foundations of Data Science at the City College of San Francisco in Fall 2024.
 The course uses Jupyter notebook using Python, mainly the NumPy library.
 
+Source:
+The Instructor at the City College of San Francisco has provided student materials of the course for the Fall 2024.
+https://github.com/ccsf-math-108/materials-fa24/
+
+------
+
 Project 1: World Population and Poverty
 
 Project 2: Climate
 
 Project 3: Movie Classification
 
-Source:
-The Instructor at the City College of San Francisco has provided student materials of the course for the Fall 2024.
-https://github.com/ccsf-math-108/materials-fa24/
+------
 
 Topics (Lectures) covered in the course:
 
@@ -51,6 +55,8 @@ Topics (Lectures) covered in the course:
 35. Classification
 36. Classifiers
 37. Updating Predictions
+
+----------
 
 
 *There may be a missing or skipping number for the file (HW), but this does not imply a missing file. It only indicates a class that has been cancelled due to a holiday.*
