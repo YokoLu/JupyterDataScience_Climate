@@ -12,6 +12,6 @@ The Instructor at the City College of San Francisco has provided student materia
 https://github.com/ccsf-math-108/materials-fa24/
 
 
-*There may be a missing number for the HW, but this does not imply a missing file. It only indicates a class that has been cancelled due to a holiday.*
+*There may be a missing or skipping number for the file (HW), but this does not imply a missing file. It only indicates a class that has been cancelled due to a holiday.*
 
 *For Lab assignments, I do not have the full set of solutions for each of the assignment, since this was my first semester and I was not aware that I could not have access to the course after the Canvas (student platform) once the semester finishes. Therefore, I have included what I have on my laptop - I do not have all the files as I was cleaning my laptop which I had no space to hold more files.*
